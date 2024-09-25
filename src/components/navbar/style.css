@@ -1,0 +1,7 @@
+.navbar {
+  @apply bg-gray-900 m-0 p-0 text-white text-center;
+}
+
+.navbar-title {
+  @apply text-4xl p-5 m-0 font-bold font-mono tracking-tight text-gray-200 sm:text-5xl;
+}

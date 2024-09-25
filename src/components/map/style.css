@@ -1,0 +1,11 @@
+.map-wrap {
+  @apply relative w-full h-[calc(100%-80px)] sm:h-[calc(100%-88px)];
+}
+
+.map {
+  @apply absolute w-full h-full;
+}
+
+.dropdown-wrap {
+  @apply absolute top-0 right-0 z-10 p-4;
+}
